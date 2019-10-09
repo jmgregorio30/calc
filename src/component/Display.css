@@ -1,0 +1,11 @@
+
+.component-display > div {
+  padding: 10px;
+  height: 70px;
+  font-size: 60px;
+  color: white;
+  text-align: right;
+  line-height: 70px;
+  background: #4c4b4a;
+  overflow:auto;
+}
